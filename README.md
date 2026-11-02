@@ -1,2 +1,3 @@
 # MiPrimerRepo_pns
-“Primer Repo de pruebas de Pablo_ Nicora_Sánchez
+Primer Repo de pruebas de **Pablo Nicora Sánchez**  
+Repositorio privado creado con mi usuario *Github*: **pns-Balmis**
